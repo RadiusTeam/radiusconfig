@@ -1,1 +1,1 @@
-# radiusconfig
+test lang kung kakayanin
